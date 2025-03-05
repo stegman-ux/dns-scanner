@@ -21,3 +21,6 @@ Launch setup.py
 After launched setup.py start dns-scan.py
 put the link 
 all good
+
+
+Simple script
