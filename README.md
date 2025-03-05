@@ -17,9 +17,16 @@ TXT : google-site-verification=iV9EjDgeT35oeF1AfydA59vv6PcxDLMwsWIyx5VQ5Qw
 SOA : sam.ns.cloudflare.com. dns.cloudflare.com. 2364825307 10000 2400 604800 1800
 
 how use the tool ? 
+
+
 Launch setup.py
+
+
 After launched setup.py start dns-scan.py
+
+
 put the link 
+
 all good
 
 
